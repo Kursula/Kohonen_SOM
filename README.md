@@ -28,7 +28,5 @@ Most of the basic building blocks are located in the som.py, which contains the 
 
 The Jupyter notebook RGB_SOM shows a simple example where 3-dimensional vectors are mapped to 2D map using the SOM. 
 
-
-SOM application for unsupervised CNN-based image feature vector clustering is coming soon... 
-
+The Juypyter notebook img_feature_vector_SOM describes the workflow for reading images, calculating feature vectors using ResNet50 and then performing unsupervised clustering using the SOM. 
 
